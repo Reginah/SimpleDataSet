@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\SimpleDataSet\obj\x86\Debug\SimpleDataSet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\SimpleDataSet\obj\x86\Debug\SimpleDataSet.exe
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\SimpleDataSet\obj\x86\Debug\SimpleDataSet.pdb
+C:\Users\Admin\Desktop\Code\Chapter 22\SimpleDataSet\obj\x86\Debug\SimpleDataSet.exe
+C:\Users\Admin\Desktop\Code\Chapter 22\SimpleDataSet\obj\x86\Debug\SimpleDataSet.pdb
