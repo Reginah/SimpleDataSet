@@ -5,10 +5,7 @@ using System.Text;
 
 namespace SimpleDataSet
 {
-    class Repository
+    class Simple_DataSet2
     {
-
-        // This is to show how it works
-
     }
 }
